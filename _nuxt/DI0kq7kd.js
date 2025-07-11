@@ -1,0 +1,1 @@
+import{a as r}from"./Cm9fLqme.js";import{s as o,m as t,A as a,v as c}from"./DIO2332l.js";function v(){const s=o({});let e=null;const n=r();return t(()=>{e=n.value.subscribe(u=>{s.value=u})}),a(()=>{n.value.unsubscribe(e)}),s}function f(s){const e=o();return c(()=>{e.value=s()},{flush:"sync"}),e}export{f as e,v as u};

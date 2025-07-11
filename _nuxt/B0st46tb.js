@@ -1,0 +1,1 @@
+function l(t,e=64){const o=document.getElementById(t),n=o==null?void 0:o.getBoundingClientRect();o&&window.scrollTo({behavior:"smooth",top:((n==null?void 0:n.top)??0)+window.scrollY-e})}function c(){return{scrollToTarget:l}}export{c as u};

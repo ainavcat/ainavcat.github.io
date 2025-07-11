@@ -1,0 +1,1 @@
+import{g as e,_ as s}from"./dw3_ClZo.js";import{f as o,J as n,e as _,o as c,j as r}from"./DIO2332l.js";const u=o({__name:"Tags",setup(p){const t=n(e());return(g,m)=>{const a=s;return c(),_(a,{tags:r(t),path:"/tag/:tag"},null,8,["tags"])}}});export{u as _};
