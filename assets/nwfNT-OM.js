@@ -1,0 +1,1 @@
+import{g as e,_ as s}from"./CHpP6LkY.js";import{f as o,H as n,e as _,o as c,i as r}from"./BZYIDAji.js";const u=o({__name:"Tags",setup(p){const t=n(e());return(g,m)=>{const a=s;return c(),_(a,{tags:r(t),path:"/tag/:tag"},null,8,["tags"])}}});export{u as _};
