@@ -1,1 +1,0 @@
-import{a as r}from"./DgpxBLaK.js";import{s as o,l as t,z as a,q as l}from"./D1F2lCq2.js";function f(){const s=o({});let e=null;const n=r();return t(()=>{e=n.value.subscribe(u=>{s.value=u})}),a(()=>{n.value.unsubscribe(e)}),s}function v(s){const e=o();return l(()=>{e.value=s()},{flush:"sync"}),e}export{v as e,f as u};
