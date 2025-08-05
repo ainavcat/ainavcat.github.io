@@ -1,1 +1,0 @@
-import{_ as e}from"./DlAUqK2U.js";import{_ as t}from"./DG41m09Z.js";import{e as n,o as _}from"./CTrj7B05.js";const c={};function r(s,a){const o=t;return _(),n(o,{description:"功能模块开发中，敬请期待~"})}const i=e(c,[["render",r]]);export{i as default};

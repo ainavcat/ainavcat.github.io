@@ -96,6 +96,9 @@
             <image:loc>https://ai.sheyann.com/logos/picdoc.svg</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://ai.sheyann.com/logos/dujia.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://ai.sheyann.com/logos/jasper.png</image:loc>
         </image:image>
         <image:image>
@@ -196,6 +199,9 @@
         </image:image>
         <image:image>
             <image:loc>https://ai.sheyann.com/logos/slea.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/chaoneng.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://ai.sheyann.com/logos/runwayml.png</image:loc>
@@ -819,6 +825,12 @@
             <image:loc>https://ai.sheyann.com/logos/slea.png</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://ai.sheyann.com/logos/chaoneng.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/dujia.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://ai.sheyann.com/logos/runwayml.png</image:loc>
         </image:image>
         <image:image>
@@ -1414,24 +1426,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://ai.sheyann.com/tag/%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90</loc>
-        <image:image>
-            <image:loc>https://ai.sheyann.com/logos/raphael-ai.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://ai.sheyann.com/logos/raphael-ai-zh.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://ai.sheyann.com/logos/napkin.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://ai.sheyann.com/logos/baidu.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://ai.sheyann.com/logos/jiandan.svg</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://ai.sheyann.com/tag/%E5%9B%BE%E7%89%87%E4%BF%AE%E5%A4%8D</loc>
         <image:image>
             <image:loc>https://ai.sheyann.com/logos/yiyan.png</image:loc>
@@ -1460,23 +1454,8 @@
         <image:image>
             <image:loc>https://ai.sheyann.com/logos/booltool.png</image:loc>
         </image:image>
-    </url>
-    <url>
-        <loc>https://ai.sheyann.com/tag/%E5%9B%BE%E7%89%87%E7%94%9F%E6%88%90</loc>
         <image:image>
-            <image:loc>https://ai.sheyann.com/logos/freepik.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://ai.sheyann.com/logos/clipdrop.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://ai.sheyann.com/logos/stockimg.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://ai.sheyann.com/logos/lovo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://ai.sheyann.com/logos/shots.jpg</image:loc>
+            <image:loc>https://ai.sheyann.com/logos/chaoneng.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -1504,6 +1483,12 @@
         </image:image>
         <image:image>
             <image:loc>https://ai.sheyann.com/logos/recraft.svg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://ai.sheyann.com/tag/%E5%9B%BE%E7%94%9F%E8%A7%86%E9%A2%91</loc>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/qianwen.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -1915,6 +1900,12 @@
         </image:image>
     </url>
     <url>
+        <loc>https://ai.sheyann.com/tag/%E6%8D%A2%E8%84%B8</loc>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/chaoneng.png</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://ai.sheyann.com/tag/%E6%8E%A8%E7%90%86</loc>
         <image:image>
             <image:loc>https://ai.sheyann.com/logos/gpt.png</image:loc>
@@ -2035,7 +2026,16 @@
         </image:image>
     </url>
     <url>
+        <loc>https://ai.sheyann.com/tag/%E6%95%85%E4%BA%8B%E5%89%A7%E6%9C%AC</loc>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/dujia.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://ai.sheyann.com/tag/%E6%95%B0%E5%AD%97%E4%BA%BA</loc>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/dujia.jpg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://ai.sheyann.com/logos/zenvideo.png</image:loc>
         </image:image>
@@ -2107,7 +2107,55 @@
         </image:image>
     </url>
     <url>
+        <loc>https://ai.sheyann.com/tag/%E6%96%87%E7%94%9F%E5%9B%BE</loc>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/freepik.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/clipdrop.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/stockimg.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/lovo.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/shots.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/raphael-ai.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/raphael-ai-zh.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/napkin.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/baidu.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/jiandan.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/qianwen.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/chaoneng.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/dujia.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://ai.sheyann.com/tag/%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91</loc>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/qianwen.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://ai.sheyann.com/logos/dujia.jpg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://ai.sheyann.com/logos/runwayml.png</image:loc>
         </image:image>
@@ -2977,4 +3025,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.3 at 2025-07-28T10:20:20.670Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.3 at 2025-08-05T08:51:13.630Z -->
