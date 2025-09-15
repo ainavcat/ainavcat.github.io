@@ -1,1 +1,0 @@
-import{_ as a,b as m}from"./BBHr8EQ_.js";import{o as n}from"./DfLfFgUA.js";import{B as i,b as c}from"./CqcKg46h.js";const h=()=>n(c(),["component"]),r=(o,s)=>{let{slots:p,attrs:t}=s;const e=a(a(a({},o),{component:"div"}),t);return m(i,e,p)};r.displayName="ATypographyParagraph";r.inheritAttrs=!1;r.props=h();export{r as P};

@@ -1,0 +1,3 @@
+import{f as r,c as n,o as l,d as t,a as o,a7 as p,t as d,n as i}from"#entry";import{_ as u}from"./DlAUqK2U.js";const f={class:"mark"},g=r({__name:"ProsePre",props:{code:{type:String,default:""},language:{type:String,default:null},filename:{type:String,default:null},highlights:{type:Array,default:()=>[]},meta:{type:String,default:null},class:{type:String,default:null}},setup(s){return(a,e)=>(l(),n("pre",{class:i(a.$props.class)},[e[0]||(e[0]=t("    ")),o("span",f,d(s.language),1),e[1]||(e[1]=t(`
+    `)),p(a.$slots,"default",{},void 0,!0),e[2]||(e[2]=t(`
+   `))],2))}}),y=Object.assign(u(g,[["__scopeId","data-v-58decbc4"]]),{__name:"ProsePre"});export{y as default};
