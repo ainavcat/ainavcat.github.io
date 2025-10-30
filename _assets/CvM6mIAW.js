@@ -1,0 +1,1 @@
+import{g as e,_ as n}from"./BtRoLuYg.js";import{f as s,z as o,e as _,i as c,o as r}from"#entry";const g=s({__name:"Tags",setup(p){const t=o(e());return(m,i)=>{const a=n;return r(),_(a,{tags:c(t),path:"/tag/:tag"},null,8,["tags"])}}}),l=Object.assign(g,{__name:"SiteTags"});export{l as _};
